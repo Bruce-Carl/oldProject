@@ -8,7 +8,7 @@
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [React](#react)
-* [PC兼容](#PC兼容)
+* [PC兼容](#pc兼容)
 * [移动端兼容](#移动端兼容)
 
 HTML
