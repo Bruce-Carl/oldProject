@@ -47,6 +47,9 @@ $.fn.extend({
 参考资料：  
 http://www.w3school.com.cn/jquery/ajax_serializearray.asp  
 
+#### 2、window.open使用注意事项
+`window.open`如果不是用户主动触发会被浏览器当成广告拦截，所以不要再异步请求中使用`window.open`，或者异步修改成同步  
+
 [查看更多](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
 
 React
