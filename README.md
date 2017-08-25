@@ -2,7 +2,7 @@
 主要实现微信活动页动效
 ##临时记录
 序列化表单数据后再提取对应的数据转化为JSON
-```
+```javascript
 $.fn.extend({
     serializeJSON: function () {
         var arr = $(this).serializeArray();
