@@ -18,7 +18,7 @@ HTML
 总之是体验太差。所以最后还是希望通过服务器端来实现下载功能：  
 
         通过服务器端在文件的响应头中添加`Content-disposition`参数来实现下载  
-这样通过文件链接就可以直接下载文件
+这样通过文件链接就可以直接下载文件  
 [查看更多](https://github.com/mevv/note/blob/master/HTML/html.md)
 
 CSS
@@ -42,7 +42,7 @@ $.fn.extend({
     }
 });
 ```
-参考资料：<br>
+参考资料：  
 http://www.w3school.com.cn/jquery/ajax_serializearray.asp  
 
 [查看更多](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
