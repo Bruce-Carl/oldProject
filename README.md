@@ -21,4 +21,4 @@ http://www.w3school.com.cn/jquery/ajax_serializearray.asp
 
 目录
 ----
-* [HTML](https://github.com/mevv/note/HTML/html.md)
+* [HTML](https://github.com/mevv/note/blob/master/HTML/html.md)
