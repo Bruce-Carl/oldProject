@@ -24,6 +24,13 @@ HTML
 
 CSS
 ----
+#### 1、通过欺骗浏览器开启硬件加速
+```css
+-webkit-transform: translate3d(0, 0, 0);
+-moz-transform: translate3d(0, 0, 0);
+-ms-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+```
 
 [查看更多](https://github.com/mevv/note/blob/master/CSS/css.md)
 
@@ -59,6 +66,14 @@ React
 
 PC兼容
 ----
+#### 1、图片设置width: 100%注意事项
+```css
+{
+   width: 100%;
+   height: auto;
+}
+```
+在某些浏览器上如果没有设置`height: auto`，图片的height会变大，移动端也存在同样的问题
 
 [查看更多](https://github.com/mevv/note/blob/master/PC兼容/pc.md)
 
