@@ -15,5 +15,5 @@ $.fn.extend({
     }
 });
 ```
-参考资料：<br>
+参考资料：  
 http://www.w3school.com.cn/jquery/ajax_serializearray.asp  
