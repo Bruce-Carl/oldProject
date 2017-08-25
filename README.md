@@ -1,6 +1,26 @@
 问题记录
 ====
-主要记录工作学习中遇到的问题<br>
+主要记录工作学习中遇到的问题  
+
+目录
+----
+* [HTML](https://github.com/mevv/note/blob/master/HTML/html.md)
+* [CSS](https://github.com/mevv/note/blob/master/CSS/css.md)
+* [JavaScript](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
+* [React](https://github.com/mevv/note/blob/master/React/react.md)
+* [PC兼容](https://github.com/mevv/note/blob/master/PC兼容/pc.md)
+* [移动端兼容](https://github.com/mevv/note/blob/master/移动端兼容/mobile.md)
+
+HTML
+----
+[查看更多](https://github.com/mevv/note/blob/master/HTML/html.md)
+
+CSS
+----
+[查看更多](https://github.com/mevv/note/blob/master/CSS/css.md)
+
+JavaScript
+----
 #### 1、Form表单数据转JSON格式发送
 序列化表单数据后再提取对应的数据转化为JSON
 ```javascript
@@ -19,12 +39,19 @@ $.fn.extend({
 参考资料：<br>
 http://www.w3school.com.cn/jquery/ajax_serializearray.asp  
 
-目录
+[查看更多](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
+
+React
 ----
-* [HTML](https://github.com/mevv/note/blob/master/HTML/html.md)
-* [CSS](https://github.com/mevv/note/blob/master/CSS/css.md)
-* [JavaScript](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
-* [React](https://github.com/mevv/note/blob/master/React/react.md)
-* [PC兼容](https://github.com/mevv/note/blob/master/PC兼容/pc.md)
-* [移动端兼容](https://github.com/mevv/note/blob/master/移动端兼容/mobile.md)
+[查看更多](https://github.com/mevv/note/blob/master/React/react.md)
+
+PC兼容
+----
+[查看更多](https://github.com/mevv/note/blob/master/PC兼容/pc.md)
+
+移动端兼容
+----
+[查看更多](https://github.com/mevv/note/blob/master/移动端兼容/mobile.md)
+
+
 
