@@ -7,10 +7,9 @@ $.fn.extend({
     serializeJSON: function () {
         var arr = $(this).serializeArray();
         var JSONData = {};
-        var i;
-        for (i in arr) {
-            JSONData[arr[i].name] = arr[i].value;
-        }
+        arr.forEach(function (item) {
+            JSONData[item.name] = item.value;
+        });
         return JSONData;
     }
 });
