@@ -34,7 +34,7 @@ CSS
 }
 ```
 
-[查看更多](https://github.com/mevv/note/blob/master/CSS/css.md)
+[查看更多](CSS/css.md)
 
 JavaScript
 ----
@@ -58,12 +58,12 @@ http://www.w3school.com.cn/jquery/ajax_serializearray.asp
 #### 2、window.open使用注意事项
 `window.open`如果不是用户主动触发会被浏览器当成广告拦截，所以不要在异步请求中使用`window.open`，或者异步修改成同步  
 
-[查看更多](https://github.com/mevv/note/blob/master/JavaScript/javascript.md)
+[查看更多](JavaScript/javascript.md)
 
 React
 ----
 
-[查看更多](https://github.com/mevv/note/blob/master/React/react.md)
+[查看更多](React/react.md)
 
 PC兼容
 ----
@@ -76,12 +76,12 @@ PC兼容
 ```
 在某些浏览器上如果没有设置`height: auto`，图片的height会变大，移动端也存在同样的问题
 
-[查看更多](https://github.com/mevv/note/blob/master/PC兼容/pc.md)
+[查看更多](PC兼容/pc.md)
 
 移动端兼容
 ----
 
-[查看更多](https://github.com/mevv/note/blob/master/移动端兼容/mobile.md)
+[查看更多](移动端兼容/mobile.md)
 
 
 
