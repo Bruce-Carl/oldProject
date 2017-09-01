@@ -25,7 +25,7 @@ http://www.w3school.com.cn/jquery/ajax_serializearray.asp
 ```javascript
 var arr = [1, 2, 4];
 // 数组深拷贝
-var newArr = arr.slice(0);
+var newArr = arr.slice();
 // 在数组指定位置插入数据
 newArr.splice(2, 0, 3);
 ```
