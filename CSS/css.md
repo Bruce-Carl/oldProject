@@ -14,7 +14,7 @@ CSS
 引入normalize.css文件初始化    
 github地址：[https:github.com/necolas/normalize.css](https:github.com/necolas/normalize.css)   
 #### 3、`mix-blend-mode: multiply`实现正片叠低效果   
-`mix-blend-mode`是css3的内容，微软的IE、Edge都不支持[兼容查询](https://caniuse.com/#search=mix-blend-mode)。
+`mix-blend-mode`是css3的内容，微软的IE、Edge都不支持（[兼容查询](https://caniuse.com/#search=mix-blend-mode)）。
 所以需要通过js判断（虽然`@supports`也可以判断，但是[不兼容IE](https://caniuse.com/#search=%40supports)，也是很忧伤）是否支持`mix-blend-mode`，参考链接结合基本可以实现一致的效果。     
 参考：     
 [https://stackoverflow.com/questions/20424279/canvas-todataurl-securityerror](https://stackoverflow.com/questions/20424279/canvas-todataurl-securityerror)      
