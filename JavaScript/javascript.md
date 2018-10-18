@@ -15,7 +15,7 @@ $.fn.extend({
 });
 ```
 参考资料：  
-http://www.w3school.com.cn/jquery/ajax_serializearray.asp  
+<http://www.w3school.com.cn/jquery/ajax_serializearray.asp>  
 
 #### 2、window.open使用注意事项
 `window.open`如果不是用户主动触发会被浏览器当成广告拦截，所以不要在异步请求中使用`window.open`，或者异步修改成同步  
@@ -31,7 +31,7 @@ newArr.splice(2, 0, 3);
 ```
 最终结果：`arr`为`[1, 2, 4]`，`newArr`为`[1, 2, 3, 4]`  
 参考资料：  
-[http://www.w3school.com.cn/jsref/jsref_splice.asp](http://www.w3school.com.cn/jsref/jsref_splice.asp)  
-[http://www.w3school.com.cn/jsref/jsref_slice_array.asp](http://www.w3school.com.cn/jsref/jsref_slice_array.asp)  
-[http://blog.csdn.net/u014168594/article/details/53141452](http://blog.csdn.net/u014168594/article/details/53141452)  
-[http://blog.csdn.net/fungleo/article/details/54931379](http://blog.csdn.net/fungleo/article/details/54931379)
+<http://www.w3school.com.cn/jsref/jsref_splice.asp>
+<http://www.w3school.com.cn/jsref/jsref_slice_array.asp>
+<http://blog.csdn.net/u014168594/article/details/53141452>
+<http://blog.csdn.net/fungleo/article/details/54931379>
