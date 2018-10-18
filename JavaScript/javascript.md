@@ -31,7 +31,7 @@ newArr.splice(2, 0, 3);
 ```
 最终结果：`arr`为`[1, 2, 4]`，`newArr`为`[1, 2, 3, 4]`  
 参考资料：  
-<http://www.w3school.com.cn/jsref/jsref_splice.asp>
-<http://www.w3school.com.cn/jsref/jsref_slice_array.asp>
-<http://blog.csdn.net/u014168594/article/details/53141452>
-<http://blog.csdn.net/fungleo/article/details/54931379>
+<http://www.w3school.com.cn/jsref/jsref_splice.asp>  
+<http://www.w3school.com.cn/jsref/jsref_slice_array.asp>  
+<http://blog.csdn.net/u014168594/article/details/53141452>  
+<http://blog.csdn.net/fungleo/article/details/54931379>  
